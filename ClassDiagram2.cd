@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ActionButton">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEQIAAjAAAAAAFAIAAAQCAAAgAAABAQAAAQEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\ActionButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BagButton">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAAgggAAAAAAAAAAACAAACAAAAAAAAACAACAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\BagButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CharButton" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAQAAAAAAACgIAAAISAAAQAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\CharButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LootButton" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAKAQgAAAEAAAAAAAAAAAAAgAAAAAQAAAQEAAEA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\LootButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpellButton" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\SpellButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VendorButton">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAgQgAAAAAAAAAAAAAAgABgAACAAQAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\VendorButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AttackState" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAABAAAAAAAAAAIAEAAAAIAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\EnemyStates\AttackState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EvadeState" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyStates\EvadeState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FollowState" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyStates\FollowState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IdleState" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyStates\IdleState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Armory">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAiAAAAAoAAAgAAAIAAAAAAAAAAgAAAgYAAgARAAABA=</HashCode>
+      <FileName>Assets\Scripts\Items\Armory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bag">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAQAAIAgAAAAIAQAEAAAQgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Bag.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HealthPotion">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Items\HealthPotion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Item">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAEAAIQFAAAEBAIAAABBAAAAAQAAAAAQACAAEAAgA=</HashCode>
+      <FileName>Assets\Scripts\Items\Item.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ManaPotion">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Items\ManaPotion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="QualityColor">
+    <Position X="14.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\QualityColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>zQUAABQIADAJAAAABQEoBAgAACBAEAAAQCIQAAEAAmA=</HashCode>
+      <FileName>Assets\Scripts\Managers\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QGQuestScript">
+    <Position X="2.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\QGQuestScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quest">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAQAAAQAAgAEAAIQQAAAEAAAkAAAAJAAAAAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Objective">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAAAAAAAAAACAAAABgAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollectObjective">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KillObjective">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestGiver">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAAECAgABAAAkCAAgAAAAQIAAAACAQAAAAFAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\QuestGiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestGiverWindow">
+    <Position X="16.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A4AABCAIAAAAJAAgAgAAAAAAAQDAAAAASAAAQACgAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\QuestGiverWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Questlog">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICQAADCAEGAgAAAoAAAIAAIAAABABAAAQgEAAgGABBA=</HashCode>
+      <FileName>Assets\Scripts\Quest\Questlog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestScript">
+    <Position X="14.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAQgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Quest\QuestScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveManager">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQYBpIBgAACIgAAoAggAAAkAAAFECAAgQAIBAAEIAEI=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionMenu">
+    <Position X="2.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAACABAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\OptionMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vendor">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vendor\Vendor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="IUseable">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Buttons\IUseable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IState">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EnemyStates\IState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ArmorType">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAEAAQCAQIEEEAAAEAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\Armory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Quality">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAQAAAAQAAAAQAAAAAAAQAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Items\QualityColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47da76bf4168cf4197eb4d8a80d93b9, type: 3}
+  m_Name: Gloves
+  m_EditorClassIdentifier: 
+  icon: {fileID: -3896627757111536427, guid: 73371d33174a54b4a98f351349f8e363, type: 3}
+  stackSize: 0
+  title: "\u041F\u0440\u043E\u0440\u0436\u0430\u0432\u0435\u043B\u044B\u0435 \u043F\u0435\u0440\u0447\u0430\u0442\u043A\u0438
+    \u0440\u044B\u0446\u0430\u0440\u044F"
+  quality: 5
+  cost: -1
+  armorType: 3
+  armor: 5
+  damage: 0
+  force: 0
+  dexterity: 0
+  magic: 0
+  vitality: 1
+  strength: 3
+  requiredForce: 0
+  requiredDexterity: 0
+  requiredMagic: 0
+  animationClips:
+  - {fileID: 7400000, guid: 057a6d65c70c3ad4081dcd3eea2fa515, type: 2}
+  - {fileID: 7400000, guid: ea350c135bad7cb4aaf83a0ab44e7c9b, type: 2}
+  - {fileID: 7400000, guid: ea350c135bad7cb4aaf83a0ab44e7c9b, type: 2}
+  - {fileID: 0}
+  - {fileID: 7400000, guid: 10fefeb5cd7d6f246b7bfa187cb5d684, type: 2}
+  - {fileID: 7400000, guid: 618837143ce2a5d41b6ad22fbc247c9e, type: 2}
+  - {fileID: 7400000, guid: 618837143ce2a5d41b6ad22fbc247c9e, type: 2}
+  - {fileID: 7400000, guid: 4e9091bb276604342996d2cc2b737fd6, type: 2}
+  - {fileID: 7400000, guid: c8c4a610994bb6f47be65cce7a670b5d, type: 2}
+  - {fileID: 7400000, guid: 796e7f28cf411c6479d03da60003bc57, type: 2}
+  - {fileID: 7400000, guid: 796e7f28cf411c6479d03da60003bc57, type: 2}
+  - {fileID: 7400000, guid: e83ed9c40fd7b034b9ec9083ea08d8c3, type: 2}

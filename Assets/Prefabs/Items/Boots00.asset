@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47da76bf4168cf4197eb4d8a80d93b9, type: 3}
+  m_Name: Boots00
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2180109940602690883, guid: 60900a249bc328e4083793e460acfb07, type: 3}
+  stackSize: 0
+  title: "\u0411\u043E\u0442\u044B \u0431\u0435\u043B\u0430\u0440\u0443\u0441\u0430"
+  quality: 0
+  cost: 5
+  armorType: 4
+  armor: 1
+  damage: 0
+  force: 0
+  dexterity: 0
+  magic: 0
+  vitality: 0
+  strength: 20
+  requiredForce: 0
+  requiredDexterity: 0
+  requiredMagic: 0

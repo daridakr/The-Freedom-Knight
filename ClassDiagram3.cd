@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SavedGame">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAABAAIIAAABAAAAAAAAAEAAEABAHg=</HashCode>
+      <FileName>Assets\Scripts\Saving\SavedGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spell" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAgQAAIAAAAAQBAAAEAQACAQAAAgEAAIA=</HashCode>
+      <FileName>Assets\Scripts\SpellS\Spell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpellBook">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUQAAAAAACAAAAAAAAAAAEADAEBAAAAAQQKAAACABAA=</HashCode>
+      <FileName>Assets\Scripts\SpellS\SpellBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellScript">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAgQIAAAAAACAAIEAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SpellS\SpellScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveData">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABAAAgIAgAAAAAAABAAQAIAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerData">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQCAAAEAAACAAAAAAAAAQAAAAAAAAhAAAAIAAAYAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemData">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAEAAAAAAAAAAAAAAAAAAAAAAAAKAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChestData">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryData">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagData">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentData">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActionButtonData">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestData">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAAAAAAAEAAAgIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestGiverData">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Saving\SaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScript">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAIAAAICAFAAAAAAAAIAAAACAAAACAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\MenuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VendorItem">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAEAAAAAACQAAAAkAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vendor\VendorItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VendorWindow">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAAgGIAIAAQAAAAACAAAEAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Vendor\VendorWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgEAAAAAAAIAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

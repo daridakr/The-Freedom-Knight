@@ -1,0 +1,784 @@
+fileFormatVersion: 2
+guid: f64c0b066c68ed74f980fe6a85ac2b4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1371705272759439783
+    second: LigthningEffect_0
+  - first:
+      213: 2446448412520441025
+    second: LigthningEffect_1
+  - first:
+      213: 5308180617939983037
+    second: LigthningEffect_2
+  - first:
+      213: -3639880088218976080
+    second: LigthningEffect_3
+  - first:
+      213: -6333629675615601222
+    second: LigthningEffect_4
+  - first:
+      213: -4074072455955958621
+    second: LigthningEffect_5
+  - first:
+      213: -7609936326988305642
+    second: LigthningEffect_6
+  - first:
+      213: -8783279165848648970
+    second: LigthningEffect_7
+  - first:
+      213: -8949359852788623053
+    second: LigthningEffect_8
+  - first:
+      213: 8830613979672208577
+    second: LigthningEffect_9
+  - first:
+      213: -81687368608027366
+    second: LigthningEffect_10
+  - first:
+      213: 1208857141290136292
+    second: LigthningEffect_11
+  - first:
+      213: -7532508172261255497
+    second: LigthningEffect_12
+  - first:
+      213: 8799240750882103270
+    second: LigthningEffect_13
+  - first:
+      213: 208648628247472663
+    second: LigthningEffect_14
+  - first:
+      213: -6332482938018661909
+    second: LigthningEffect_15
+  - first:
+      213: 1597627082817605716
+    second: LigthningEffect_16
+  - first:
+      213: -3162007927256627525
+    second: LigthningEffect_17
+  - first:
+      213: -1942634314811311638
+    second: LigthningEffect_18
+  - first:
+      213: 4504332673251780163
+    second: LigthningEffect_19
+  - first:
+      213: 7735102725244799330
+    second: LigthningEffect_20
+  - first:
+      213: 4992207584616444010
+    second: LigthningEffect_21
+  - first:
+      213: 4809493164379978606
+    second: LigthningEffect_22
+  - first:
+      213: 2116541648735920399
+    second: LigthningEffect_23
+  - first:
+      213: -6551736270025693507
+    second: LigthningEffect_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LigthningEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a15b5f8da6490310800000000000000
+      internalID: 1371705272759439783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4699d8ed783f120800000000000000
+      internalID: 2446448412520441025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1de7e5227aa940800000000000000
+      internalID: 5308180617939983037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c0bc385c8c7dc0800000000000000
+      internalID: -3639880088218976080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd3f06fd5d6a18a0800000000000000
+      internalID: -6333629675615601222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4ba89cfacf577c0800000000000000
+      internalID: -4074072455955958621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6582da33146690800000000000000
+      internalID: -7609936326988305642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2808c62268b1680800000000000000
+      internalID: -8783279165848648970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_8
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339546f21ac7dc380800000000000000
+      internalID: -8949359852788623053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_9
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e5feb0a4ac8a70800000000000000
+      internalID: 8830613979672208577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_10
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d6b7365c9cddef0800000000000000
+      internalID: -81687368608027366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_11
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2faca4a29b6c010800000000000000
+      internalID: 1208857141290136292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_12
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b614ace9b7277790800000000000000
+      internalID: -7532508172261255497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_13
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef1871b7de2d1a70800000000000000
+      internalID: 8799240750882103270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_14
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a209962d445e200800000000000000
+      internalID: 208648628247472663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_15
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9fc2d91508e18a0800000000000000
+      internalID: -6332482938018661909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_16
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45013e20e59eb2610800000000000000
+      internalID: 1597627082817605716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_17
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb646ee0b8a4e14d0800000000000000
+      internalID: -3162007927256627525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_18
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9ff2912606a05e0800000000000000
+      internalID: -1942634314811311638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_19
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ab5b83ba928e30800000000000000
+      internalID: 4504332673251780163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_20
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2694f5f32fa985b60800000000000000
+      internalID: 7735102725244799330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_21
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60f21e2952e74540800000000000000
+      internalID: 4992207584616444010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_22
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb98c1d80ceb240800000000000000
+      internalID: 4809493164379978606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_23
+      rect:
+        serializedVersion: 2
+        x: 5290
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0169356a677f5d10800000000000000
+      internalID: 2116541648735920399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LigthningEffect_24
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 0
+        width: 230
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66313339e8315a0800000000000000
+      internalID: -6551736270025693507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LigthningEffect_3: -3639880088218976080
+      LigthningEffect_15: -6332482938018661909
+      LigthningEffect_17: -3162007927256627525
+      LigthningEffect_9: 8830613979672208577
+      LigthningEffect_11: 1208857141290136292
+      LigthningEffect_1: 2446448412520441025
+      LigthningEffect_19: 4504332673251780163
+      LigthningEffect_13: 8799240750882103270
+      LigthningEffect_7: -8783279165848648970
+      LigthningEffect_5: -4074072455955958621
+      LigthningEffect_24: -6551736270025693507
+      LigthningEffect_6: -7609936326988305642
+      LigthningEffect_20: 7735102725244799330
+      LigthningEffect_12: -7532508172261255497
+      LigthningEffect_8: -8949359852788623053
+      LigthningEffect_18: -1942634314811311638
+      LigthningEffect_23: 2116541648735920399
+      LigthningEffect_0: 1371705272759439783
+      LigthningEffect_2: 5308180617939983037
+      LigthningEffect_16: 1597627082817605716
+      LigthningEffect_22: 4809493164379978606
+      LigthningEffect_4: -6333629675615601222
+      LigthningEffect_10: -81687368608027366
+      LigthningEffect_14: 208648628247472663
+      LigthningEffect_21: 4992207584616444010
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

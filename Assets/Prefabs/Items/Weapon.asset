@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47da76bf4168cf4197eb4d8a80d93b9, type: 3}
+  m_Name: Weapon
+  m_EditorClassIdentifier: 
+  icon: {fileID: 8670099924859769946, guid: eb2537b5b6230714cba3e18722e6468a, type: 3}
+  stackSize: 0
+  title: "\u041F\u0440\u043E\u0440\u0436\u0430\u0432\u0435\u043B\u044B\u0439 \u043C\u0435\u0447
+    \u0440\u044B\u0446\u0430\u0440\u044F"
+  quality: 5
+  cost: -1
+  armorType: 5
+  armor: 0
+  damage: 5
+  force: 0
+  dexterity: 0
+  magic: 0
+  vitality: 0
+  strength: 5
+  requiredForce: 0
+  requiredDexterity: 0
+  requiredMagic: 0
+  animationClips:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 7400000, guid: f600f7dd3b772d7489dd61fd57d02329, type: 2}
+  - {fileID: 7400000, guid: 5eb5f8f883f231c45a44866b4a1f1dc9, type: 2}
+  - {fileID: 7400000, guid: 5eb5f8f883f231c45a44866b4a1f1dc9, type: 2}
+  - {fileID: 7400000, guid: ef07193c72b5d1a46ae498dd8f8b775b, type: 2}
+  - {fileID: 7400000, guid: 4dc8019383ea3d84dbdab0f11dc00847, type: 2}
+  - {fileID: 7400000, guid: 9407b14a4f7b4ea4f839e94736f5bd5c, type: 2}
+  - {fileID: 7400000, guid: 9407b14a4f7b4ea4f839e94736f5bd5c, type: 2}
+  - {fileID: 7400000, guid: 570613d1c577844409e5c2363a717ff5, type: 2}

@@ -1,0 +1,4109 @@
+fileFormatVersion: 2
+guid: 377c09efe377ae448afa2f0a3d8113b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8535284292054043432
+    second: Spark_attack_5_0
+  - first:
+      213: -6639884266810442462
+    second: Spark_attack_5_1
+  - first:
+      213: 6512999697203990519
+    second: Spark_attack_5_2
+  - first:
+      213: 8887869399163897950
+    second: Spark_attack_5_3
+  - first:
+      213: -4588834456365557843
+    second: Spark_attack_5_4
+  - first:
+      213: -7020939833317713881
+    second: Spark_attack_5_5
+  - first:
+      213: -7231386120708500225
+    second: Spark_attack_5_6
+  - first:
+      213: 1103575456462008059
+    second: Spark_attack_5_7
+  - first:
+      213: -7003569760443361945
+    second: Spark_attack_5_8
+  - first:
+      213: -1068922963107691405
+    second: Spark_attack_5_9
+  - first:
+      213: 2016356825970813969
+    second: Spark_attack_5_10
+  - first:
+      213: 6971999911166641068
+    second: Spark_attack_5_11
+  - first:
+      213: 3463789421384357929
+    second: Spark_attack_5_12
+  - first:
+      213: -2903511222679733151
+    second: Spark_attack_5_13
+  - first:
+      213: -8207368775545356310
+    second: Spark_attack_5_14
+  - first:
+      213: -1294823650937673616
+    second: Spark_attack_5_15
+  - first:
+      213: 3987614949212301572
+    second: Spark_attack_5_16
+  - first:
+      213: 8157681614300162767
+    second: Spark_attack_5_17
+  - first:
+      213: -3369515154026142689
+    second: Spark_attack_5_18
+  - first:
+      213: -5593190620546271591
+    second: Spark_attack_5_19
+  - first:
+      213: 7970575810673780879
+    second: Spark_attack_5_20
+  - first:
+      213: -8788629266560019581
+    second: Spark_attack_5_21
+  - first:
+      213: -2024516050548682772
+    second: Spark_attack_5_22
+  - first:
+      213: -4370108935499456771
+    second: Spark_attack_5_23
+  - first:
+      213: 1142207194112796628
+    second: Spark_attack_5_24
+  - first:
+      213: 7245605570171871226
+    second: Spark_attack_5_25
+  - first:
+      213: -1266566548075279286
+    second: Spark_attack_5_26
+  - first:
+      213: 216229352218837479
+    second: Spark_attack_5_27
+  - first:
+      213: -3188696690274583826
+    second: Spark_attack_5_28
+  - first:
+      213: -5133433718200850339
+    second: Spark_attack_5_29
+  - first:
+      213: -7163214353666645807
+    second: Spark_attack_5_30
+  - first:
+      213: 328342312853444677
+    second: Spark_attack_5_31
+  - first:
+      213: -5750038012401610509
+    second: Spark_attack_5_32
+  - first:
+      213: 7905813543613355206
+    second: Spark_attack_5_33
+  - first:
+      213: -7617072867733850243
+    second: Spark_attack_5_34
+  - first:
+      213: -4625509233983941865
+    second: Spark_attack_5_35
+  - first:
+      213: 5314030392598540050
+    second: Spark_attack_5_36
+  - first:
+      213: 5772075388211872085
+    second: Spark_attack_5_37
+  - first:
+      213: -3851609745444303181
+    second: Spark_attack_5_38
+  - first:
+      213: -1436933695271312601
+    second: Spark_attack_5_39
+  - first:
+      213: 5731632024037572879
+    second: Spark_attack_5_40
+  - first:
+      213: 3481889021861213856
+    second: Spark_attack_5_41
+  - first:
+      213: 2591122451810977145
+    second: Spark_attack_5_42
+  - first:
+      213: 4011080532438808538
+    second: Spark_attack_5_43
+  - first:
+      213: -5022393098062278481
+    second: Spark_attack_5_44
+  - first:
+      213: 6300176302085122406
+    second: Spark_attack_5_45
+  - first:
+      213: -3926038829931759761
+    second: Spark_attack_5_46
+  - first:
+      213: -1528531273885222924
+    second: Spark_attack_5_47
+  - first:
+      213: 7340679559390332054
+    second: Spark_attack_5_48
+  - first:
+      213: 2667512169732923351
+    second: Spark_attack_5_49
+  - first:
+      213: 3188104113880041619
+    second: Spark_attack_5_50
+  - first:
+      213: 464797463637639494
+    second: Spark_attack_5_51
+  - first:
+      213: 7952593077484557545
+    second: Spark_attack_5_52
+  - first:
+      213: 963130382089488043
+    second: Spark_attack_5_53
+  - first:
+      213: -2432903752224924345
+    second: Spark_attack_5_54
+  - first:
+      213: 1297844877975858968
+    second: Spark_attack_5_55
+  - first:
+      213: 2453111042299170143
+    second: Spark_attack_5_56
+  - first:
+      213: -8796115833859425229
+    second: Spark_attack_5_57
+  - first:
+      213: 6326303569456228716
+    second: Spark_attack_5_58
+  - first:
+      213: 5506976289870880051
+    second: Spark_attack_5_59
+  - first:
+      213: -1832338496804521404
+    second: Spark_attack_5_60
+  - first:
+      213: 948598647661494394
+    second: Spark_attack_5_61
+  - first:
+      213: 35453035688704404
+    second: Spark_attack_5_62
+  - first:
+      213: 8258270010664342897
+    second: Spark_attack_5_63
+  - first:
+      213: -1407594044131155060
+    second: Spark_attack_5_64
+  - first:
+      213: -8768489063536614199
+    second: Spark_attack_5_65
+  - first:
+      213: -5690812466727198757
+    second: Spark_attack_5_66
+  - first:
+      213: -3127104906620388835
+    second: Spark_attack_5_67
+  - first:
+      213: 820139569607529916
+    second: Spark_attack_5_68
+  - first:
+      213: 7606826622389439840
+    second: Spark_attack_5_69
+  - first:
+      213: 1930796228495192345
+    second: Spark_attack_5_70
+  - first:
+      213: -3865458712109174616
+    second: Spark_attack_5_71
+  - first:
+      213: 4900956638093920275
+    second: Spark_attack_5_72
+  - first:
+      213: -7570788993900277230
+    second: Spark_attack_5_73
+  - first:
+      213: 2037640831836268835
+    second: Spark_attack_5_74
+  - first:
+      213: 3365522186845462630
+    second: Spark_attack_5_75
+  - first:
+      213: -83265756010322025
+    second: Spark_attack_5_76
+  - first:
+      213: -5817877121314764539
+    second: Spark_attack_5_77
+  - first:
+      213: -8259080753143198
+    second: Spark_attack_5_78
+  - first:
+      213: 3275295453430470084
+    second: Spark_attack_5_79
+  - first:
+      213: 3086249900393655141
+    second: Spark_attack_5_80
+  - first:
+      213: 8026840985758196322
+    second: Spark_attack_5_81
+  - first:
+      213: 1082430516264611405
+    second: Spark_attack_5_82
+  - first:
+      213: -95489736162564683
+    second: Spark_attack_5_83
+  - first:
+      213: 6949433537802687685
+    second: Spark_attack_5_84
+  - first:
+      213: -6164650288122058238
+    second: Spark_attack_5_85
+  - first:
+      213: -1972666537504346067
+    second: Spark_attack_5_86
+  - first:
+      213: -4443082742416349351
+    second: Spark_attack_5_87
+  - first:
+      213: -3631185509344867753
+    second: Spark_attack_5_88
+  - first:
+      213: 7337759835763509200
+    second: Spark_attack_5_89
+  - first:
+      213: 1205913186628448043
+    second: Spark_attack_5_90
+  - first:
+      213: 1361628280535840149
+    second: Spark_attack_5_91
+  - first:
+      213: 4018018205772728815
+    second: Spark_attack_5_92
+  - first:
+      213: -8895534649163410424
+    second: Spark_attack_5_93
+  - first:
+      213: -3622800621225107880
+    second: Spark_attack_5_94
+  - first:
+      213: 6764178100579978151
+    second: Spark_attack_5_95
+  - first:
+      213: -6890736161117033582
+    second: Spark_attack_5_96
+  - first:
+      213: -3122436327787430307
+    second: Spark_attack_5_97
+  - first:
+      213: 7856720522268950716
+    second: Spark_attack_5_98
+  - first:
+      213: 4511647692115222488
+    second: Spark_attack_5_99
+  - first:
+      213: -7095994958269320274
+    second: Spark_attack_5_100
+  - first:
+      213: 1129184550577000888
+    second: Spark_attack_5_101
+  - first:
+      213: -6103672234921779499
+    second: Spark_attack_5_102
+  - first:
+      213: 5030331438908177567
+    second: Spark_attack_5_103
+  - first:
+      213: 8400063366071539717
+    second: Spark_attack_5_104
+  - first:
+      213: 9010951564285673887
+    second: Spark_attack_5_105
+  - first:
+      213: -1061934095294722773
+    second: Spark_attack_5_106
+  - first:
+      213: 4018777341928181987
+    second: Spark_attack_5_107
+  - first:
+      213: -6193841187947006082
+    second: Spark_attack_5_108
+  - first:
+      213: 5676412096479977719
+    second: Spark_attack_5_109
+  - first:
+      213: -3651036443581286524
+    second: Spark_attack_5_110
+  - first:
+      213: 2743245220467167037
+    second: Spark_attack_5_111
+  - first:
+      213: -2664742340621470181
+    second: Spark_attack_5_112
+  - first:
+      213: 1830503669109656405
+    second: Spark_attack_5_113
+  - first:
+      213: -3813745604257819189
+    second: Spark_attack_5_114
+  - first:
+      213: 3402104238651107982
+    second: Spark_attack_5_115
+  - first:
+      213: 5228953203591757035
+    second: Spark_attack_5_116
+  - first:
+      213: 2503760048211669327
+    second: Spark_attack_5_117
+  - first:
+      213: 3862607819334703491
+    second: Spark_attack_5_118
+  - first:
+      213: 1417062339817763860
+    second: Spark_attack_5_119
+  - first:
+      213: 632406053956368408
+    second: Spark_attack_5_120
+  - first:
+      213: -2712754447259202408
+    second: Spark_attack_5_121
+  - first:
+      213: -2498267747118473501
+    second: Spark_attack_5_122
+  - first:
+      213: 4236675326130677253
+    second: Spark_attack_5_123
+  - first:
+      213: -5209968782957596496
+    second: Spark_attack_5_124
+  - first:
+      213: -1893139057055154076
+    second: Spark_attack_5_125
+  - first:
+      213: 8722912188567598217
+    second: Spark_attack_5_126
+  - first:
+      213: 4971947417152714370
+    second: Spark_attack_5_127
+  - first:
+      213: 4646580127009395326
+    second: Spark_attack_5_128
+  - first:
+      213: 8085341809356508294
+    second: Spark_attack_5_129
+  - first:
+      213: -5028977212689506703
+    second: Spark_attack_5_130
+  - first:
+      213: 4464243259266625354
+    second: Spark_attack_5_131
+  - first:
+      213: 3729221220130833843
+    second: Spark_attack_5_132
+  - first:
+      213: -5391569888980116928
+    second: Spark_attack_5_133
+  - first:
+      213: -2450778543439230165
+    second: Spark_attack_5_134
+  - first:
+      213: 1645572206409133256
+    second: Spark_attack_5_135
+  - first:
+      213: 3578449819319037884
+    second: Spark_attack_5_136
+  - first:
+      213: -4127732906581733008
+    second: Spark_attack_5_137
+  - first:
+      213: 5514640901326549791
+    second: Spark_attack_5_138
+  - first:
+      213: -5786497477834404605
+    second: Spark_attack_5_139
+  - first:
+      213: -3789593817907356656
+    second: Spark_attack_5_140
+  - first:
+      213: 2188708777509330210
+    second: Spark_attack_5_141
+  - first:
+      213: 1974689177226304801
+    second: Spark_attack_5_142
+  - first:
+      213: 7191793319215800576
+    second: Spark_attack_5_143
+  - first:
+      213: 7577699069022613407
+    second: Spark_attack_5_144
+  - first:
+      213: -8148546184751512107
+    second: Spark_attack_5_145
+  - first:
+      213: 5676333749638420711
+    second: Spark_attack_5_146
+  - first:
+      213: 5950238734368004307
+    second: Spark_attack_5_147
+  - first:
+      213: 210134375297131021
+    second: Spark_attack_5_148
+  - first:
+      213: -4603194820704890852
+    second: Spark_attack_5_149
+  - first:
+      213: 3145537009833297008
+    second: Spark_attack_5_150
+  - first:
+      213: -7087150931141145912
+    second: Spark_attack_5_151
+  - first:
+      213: -3464717935512076001
+    second: Spark_attack_5_152
+  - first:
+      213: -5370134264823864990
+    second: Spark_attack_5_153
+  - first:
+      213: 3099072670435659457
+    second: Spark_attack_5_154
+  - first:
+      213: -6996858552836627392
+    second: Spark_attack_5_155
+  - first:
+      213: -1120146053214844937
+    second: Spark_attack_5_156
+  - first:
+      213: -1462101934970890621
+    second: Spark_attack_5_157
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spark_attack_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4adc77db637670800000000000000
+      internalID: 8535284292054043432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dfe0f50746ad3a0800000000000000
+      internalID: -6639884266810442462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff021e97b2d26a50800000000000000
+      internalID: 6512999697203990519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e588a3be02e085b70800000000000000
+      internalID: 8887869399163897950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da71247ef5f2150c0800000000000000
+      internalID: -4588834456365557843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72815bd8b6c909e90800000000000000
+      internalID: -7020939833317713881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4da7103a4f4ab90800000000000000
+      internalID: -7231386120708500225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_7
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee149d700b05f00800000000000000
+      internalID: 1103575456462008059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7651b1dc8625ece90800000000000000
+      internalID: -7003569760443361945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_9
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37445bb7a3c6a21f0800000000000000
+      internalID: -1068922963107691405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cac60a9d98bfb10800000000000000
+      internalID: 2016356825970813969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_11
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3842fdaf481c060800000000000000
+      internalID: 6971999911166641068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_12
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928de56702ad11030800000000000000
+      internalID: 3463789421384357929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c70da2de7a4b7d0800000000000000
+      internalID: -2903511222679733151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7cf84591991e80800000000000000
+      internalID: -8207368775545356310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e51fefbcd70ee0800000000000000
+      internalID: -1294823650937673616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40926d44baad65730800000000000000
+      internalID: 3987614949212301572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaa81bf438e53170800000000000000
+      internalID: 8157681614300162767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e9f2e1d31d31d0800000000000000
+      internalID: -3369515154026142689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996fa4db3cef062b0800000000000000
+      internalID: -5593190620546271591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_20
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88288a487c2d9e60800000000000000
+      internalID: 7970575810673780879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_21
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38396180f34880680800000000000000
+      internalID: -8788629266560019581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_22
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef08fcd06977e3e0800000000000000
+      internalID: -2024516050548682772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_23
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5bc5b3114a53c0800000000000000
+      internalID: -4370108935499456771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_24
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d72df0346fe9df00800000000000000
+      internalID: 1142207194112796628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_25
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff9fa090ef8d8460800000000000000
+      internalID: 7245605570171871226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c84916f604c6ee0800000000000000
+      internalID: -1266566548075279286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e144014373300300800000000000000
+      internalID: 216229352218837479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea38bf21497fb3d0800000000000000
+      internalID: -3188696690274583826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5820ac3b3162c8b0800000000000000
+      internalID: -5133433718200850339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_30
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d068b76f76279c90800000000000000
+      internalID: -7163214353666645807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_31
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5481c5a08918e8400800000000000000
+      internalID: 328342312853444677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f01fc984e2c330b0800000000000000
+      internalID: -5750038012401610509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_33
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4db87f78717bd60800000000000000
+      internalID: 7905813543613355206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7735727598ba4690800000000000000
+      internalID: -7617072867733850243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_35
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131913dbd3eecfb0800000000000000
+      internalID: -4625509233983941865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_36
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2774bc7a3fb940800000000000000
+      internalID: 5314030392598540050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_37
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c42bdbf78a1050800000000000000
+      internalID: 5772075388211872085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_38
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0c5dd7555c8ac0800000000000000
+      internalID: -3851609745444303181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7236097da6cfe0ce0800000000000000
+      internalID: -1436933695271312601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01430855f8da8f40800000000000000
+      internalID: 5731632024037572879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6be571e97225030800000000000000
+      internalID: 3481889021861213856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9758bbd342485f320800000000000000
+      internalID: 2591122451810977145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_43
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ff7d1e783aa730800000000000000
+      internalID: 4011080532438808538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0df9b4610ec4ab0800000000000000
+      internalID: -5022393098062278481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_45
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692e1c87f8be6750800000000000000
+      internalID: 6300176302085122406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_46
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67f6873c78e389c0800000000000000
+      internalID: -3926038829931759761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_47
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7fef7a7e099cae0800000000000000
+      internalID: -1528531273885222924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6948e6baa255fd560800000000000000
+      internalID: 7340679559390332054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_49
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df56fe6f28e40520800000000000000
+      internalID: 2667512169732923351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_50
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39808cedccb6e3c20800000000000000
+      internalID: 3188104113880041619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_51
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641cf90a4da437600800000000000000
+      internalID: 464797463637639494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e492b2f4494d5e60800000000000000
+      internalID: 7952593077484557545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba684d8caf9bd5d00800000000000000
+      internalID: 963130382089488043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1beb6de69c3ed0800000000000000
+      internalID: -2432903752224924345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_55
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81faf4d4a0fd20210800000000000000
+      internalID: 1297844877975858968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d84deee733b0220800000000000000
+      internalID: 2453111042299170143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_57
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cbe9fb04bede580800000000000000
+      internalID: -8796115833859425229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_58
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6969b6049b8bc750800000000000000
+      internalID: 6326303569456228716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_59
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d904822c5bc6c40800000000000000
+      internalID: 5506976289870880051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_60
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a71b568d93296e0800000000000000
+      internalID: -1832338496804521404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_61
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a708744b1791a2d00800000000000000
+      internalID: 948598647661494394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_62
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4993f6e1954fd7000800000000000000
+      internalID: 35453035688704404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_63
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d8ec02d44b9270800000000000000
+      internalID: 8258270010664342897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_64
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836b93bca8377ce0800000000000000
+      internalID: -1407594044131155060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4a00777a1105680800000000000000
+      internalID: -8768489063536614199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5c55763c2601b0800000000000000
+      internalID: -5690812466727198757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ab281d7aa4a94d0800000000000000
+      internalID: -3127104906620388835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5d2b0e798b16b00800000000000000
+      internalID: 820139569607529916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_69
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc187a280e09960800000000000000
+      internalID: 7606826622389439840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_70
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911be15a0f09bca10800000000000000
+      internalID: 1930796228495192345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_71
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a03bca08c12b5ac0800000000000000
+      internalID: -3865458712109174616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_72
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184e219812b30440800000000000000
+      internalID: 4900956638093920275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_73
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212132595872fe690800000000000000
+      internalID: -7570788993900277230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_74
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ae696a87274c10800000000000000
+      internalID: 2037640831836268835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_75
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ae9ef89cb4be20800000000000000
+      internalID: 3365522186845462630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_76
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ec0f6c3e28def0800000000000000
+      internalID: -83265756010322025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_77
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5094925259fb24fa0800000000000000
+      internalID: -5817877121314764539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a989e868a2eff0800000000000000
+      internalID: -8259080753143198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5dc249cdf247d20800000000000000
+      internalID: 3275295453430470084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b6c09ceef84da20800000000000000
+      internalID: 3086249900393655141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_81
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e9a83951156f60800000000000000
+      internalID: 8026840985758196322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eaeffc1d0950f00800000000000000
+      internalID: 1082430516264611405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_83
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a5544790ccaef0800000000000000
+      internalID: -95489736162564683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_84
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45ae2abf8517060800000000000000
+      internalID: 6949433537802687685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_85
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa9f38933c27aa0800000000000000
+      internalID: -6164650288122058238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_86
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f0cb5c3eaf94e0800000000000000
+      internalID: -1972666537504346067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_87
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ea9649cff652c0800000000000000
+      internalID: -4443082742416349351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_88
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a04f1a4007b9dc0800000000000000
+      internalID: -3631185509344867753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_89
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d700d981b5f4d560800000000000000
+      internalID: 7337759835763509200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_90
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fa2fe67a34cb010800000000000000
+      internalID: 1205913186628448043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f679f4b975e210800000000000000
+      internalID: 1361628280535840149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_92
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9c220154ed2c730800000000000000
+      internalID: 4018018205772728815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_93
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049f6dfd56bc8480800000000000000
+      internalID: -8895534649163410424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_94
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e10d7870a39bdc0800000000000000
+      internalID: -3622800621225107880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_95
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abcb82f4203fdd50800000000000000
+      internalID: 6764178100579978151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_96
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b2eab58ff2f50a0800000000000000
+      internalID: -6890736161117033582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_97
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e747804b0eaa4d0800000000000000
+      internalID: -3122436327787430307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_98
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0cc5530bda80d60800000000000000
+      internalID: 7856720522268950716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_99
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1d381ca79c9e30800000000000000
+      internalID: 4511647692115222488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_100
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3f4608e26f58d90800000000000000
+      internalID: -7095994958269320274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_101
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b15007bd5babaf00800000000000000
+      internalID: 1129184550577000888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_102
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de9214e0766b4ba0800000000000000
+      internalID: -6103672234921779499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_103
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cf996bac35fc540800000000000000
+      internalID: 5030331438908177567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50857714025039470800000000000000
+      internalID: 8400063366071539717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_105
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918f75a4b45d0d70800000000000000
+      internalID: 9010951564285673887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d051311904341f0800000000000000
+      internalID: -1061934095294722773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_107
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0940933b095c730800000000000000
+      internalID: 4018777341928181987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_108
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e773c35814e0b0aa0800000000000000
+      internalID: -6193841187947006082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_109
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f06b611abaa6ce40800000000000000
+      internalID: 5676412096479977719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_110
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487f456d2b9e45dc0800000000000000
+      internalID: -3651036443581286524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_111
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fcbb16ef6f11620800000000000000
+      internalID: 2743245220467167037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_112
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167059a5fee40bd0800000000000000
+      internalID: -2664742340621470181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_113
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b845d7361476910800000000000000
+      internalID: 1830503669109656405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_114
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5518a349ad21bc0800000000000000
+      internalID: -3813745604257819189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_115
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a66a9a7c3b63f20800000000000000
+      internalID: 3402104238651107982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_116
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec3a370c39f09840800000000000000
+      internalID: 5228953203591757035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41b8749f742fb220800000000000000
+      internalID: 2503760048211669327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_118
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3895712c85dba9530800000000000000
+      internalID: 3862607819334703491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_119
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414fb6da0ba6aa310800000000000000
+      internalID: 1417062339817763860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_120
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81830e794f1c6c800800000000000000
+      internalID: 632406053956368408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_121
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c0148f33c5a5ad0800000000000000
+      internalID: -2712754447259202408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_122
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee103b68be545dd0800000000000000
+      internalID: -2498267747118473501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_123
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066ea223c1bbca30800000000000000
+      internalID: 4236675326130677253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_124
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b030f8def872b7b0800000000000000
+      internalID: -5209968782957596496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_125
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4604fc1de083ab5e0800000000000000
+      internalID: -1893139057055154076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_126
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9843f766b620e0970800000000000000
+      internalID: 8722912188567598217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_127
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286fe4955d7eff440800000000000000
+      internalID: 4971947417152714370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_128
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72d8c2c108fb7040800000000000000
+      internalID: 4646580127009395326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_129
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0f42a987e43070800000000000000
+      internalID: 8085341809356508294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9b16aedb753ab0800000000000000
+      internalID: -5028977212689506703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe48b779d24fd30800000000000000
+      internalID: 4464243259266625354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_132
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b54fb201fad0c330800000000000000
+      internalID: 3729221220130833843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_133
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad5a170cb4d25b0800000000000000
+      internalID: -5391569888980116928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_134
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bc72746e51dfdd0800000000000000
+      internalID: -2450778543439230165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_135
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca54ff33f36d610800000000000000
+      internalID: 1645572206409133256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_136
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf6217b62539a130800000000000000
+      internalID: 3578449819319037884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_137
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07151878ac857b6c0800000000000000
+      internalID: -4127732906581733008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_138
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13b8639ea0f78c40800000000000000
+      internalID: 5514640901326549791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_139
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8cfbb33b32bfa0800000000000000
+      internalID: -5786497477834404605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_140
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c9d903088a86bc0800000000000000
+      internalID: -3789593817907356656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_141
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1930790bdf5e10800000000000000
+      internalID: 2188708777509330210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_142
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dd1662851876b10800000000000000
+      internalID: 1974689177226304801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a2e98be16ec360800000000000000
+      internalID: 7191793319215800576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_144
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa6e7a725692960800000000000000
+      internalID: 7577699069022613407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_145
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d58506fa6c8aee80800000000000000
+      internalID: -8148546184751512107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_146
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e852c5887366ce40800000000000000
+      internalID: 5676333749638420711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_147
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d856ca6a9e739250800000000000000
+      internalID: 5950238734368004307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_148
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d022faad91c8ae200800000000000000
+      internalID: 210134375297131021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_149
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1097f703ba2e10c0800000000000000
+      internalID: -4603194820704890852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_150
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07445f2ae3137ab20800000000000000
+      internalID: 3145537009833297008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_151
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac0c707c165ad90800000000000000
+      internalID: -7087150931141145912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_152
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11c0eef469daefc0800000000000000
+      internalID: -3464717935512076001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_153
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261250d96537975b0800000000000000
+      internalID: -5370134264823864990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_154
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce40769c2e120b20800000000000000
+      internalID: 3099072670435659457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_155
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e486973a26ee90800000000000000
+      internalID: -6996858552836627392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7c29179117470f0800000000000000
+      internalID: -1120146053214844937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spark_attack_5_157
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38616a4690295bbe0800000000000000
+      internalID: -1462101934970890621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spark_attack_5_61: 948598647661494394
+      Spark_attack_5_72: 4900956638093920275
+      Spark_attack_5_103: 5030331438908177567
+      Spark_attack_5_156: -1120146053214844937
+      Spark_attack_5_8: -7003569760443361945
+      Spark_attack_5_54: -2432903752224924345
+      Spark_attack_5_18: -3369515154026142689
+      Spark_attack_5_7: 1103575456462008059
+      Spark_attack_5_12: 3463789421384357929
+      Spark_attack_5_3: 8887869399163897950
+      Spark_attack_5_65: -8768489063536614199
+      Spark_attack_5_0: 8535284292054043432
+      Spark_attack_5_37: 5772075388211872085
+      Spark_attack_5_14: -8207368775545356310
+      Spark_attack_5_114: -3813745604257819189
+      Spark_attack_5_25: 7245605570171871226
+      Spark_attack_5_38: -3851609745444303181
+      Spark_attack_5_35: -4625509233983941865
+      Spark_attack_5_111: 2743245220467167037
+      Spark_attack_5_79: 3275295453430470084
+      Spark_attack_5_86: -1972666537504346067
+      Spark_attack_5_109: 5676412096479977719
+      Spark_attack_5_55: 1297844877975858968
+      Spark_attack_5_153: -5370134264823864990
+      Spark_attack_5_30: -7163214353666645807
+      Spark_attack_5_41: 3481889021861213856
+      Spark_attack_5_45: 6300176302085122406
+      Spark_attack_5_43: 4011080532438808538
+      Spark_attack_5_96: -6890736161117033582
+      Spark_attack_5_71: -3865458712109174616
+      Spark_attack_5_98: 7856720522268950716
+      Spark_attack_5_33: 7905813543613355206
+      Spark_attack_5_122: -2498267747118473501
+      Spark_attack_5_11: 6971999911166641068
+      Spark_attack_5_149: -4603194820704890852
+      Spark_attack_5_128: 4646580127009395326
+      Spark_attack_5_2: 6512999697203990519
+      Spark_attack_5_138: 5514640901326549791
+      Spark_attack_5_139: -5786497477834404605
+      Spark_attack_5_94: -3622800621225107880
+      Spark_attack_5_142: 1974689177226304801
+      Spark_attack_5_31: 328342312853444677
+      Spark_attack_5_29: -5133433718200850339
+      Spark_attack_5_53: 963130382089488043
+      Spark_attack_5_32: -5750038012401610509
+      Spark_attack_5_112: -2664742340621470181
+      Spark_attack_5_99: 4511647692115222488
+      Spark_attack_5_130: -5028977212689506703
+      Spark_attack_5_152: -3464717935512076001
+      Spark_attack_5_75: 3365522186845462630
+      Spark_attack_5_88: -3631185509344867753
+      Spark_attack_5_146: 5676333749638420711
+      Spark_attack_5_147: 5950238734368004307
+      Spark_attack_5_95: 6764178100579978151
+      Spark_attack_5_151: -7087150931141145912
+      Spark_attack_5_40: 5731632024037572879
+      Spark_attack_5_39: -1436933695271312601
+      Spark_attack_5_63: 8258270010664342897
+      Spark_attack_5_52: 7952593077484557545
+      Spark_attack_5_90: 1205913186628448043
+      Spark_attack_5_144: 7577699069022613407
+      Spark_attack_5_1: -6639884266810442462
+      Spark_attack_5_78: -8259080753143198
+      Spark_attack_5_80: 3086249900393655141
+      Spark_attack_5_123: 4236675326130677253
+      Spark_attack_5_118: 3862607819334703491
+      Spark_attack_5_85: -6164650288122058238
+      Spark_attack_5_110: -3651036443581286524
+      Spark_attack_5_6: -7231386120708500225
+      Spark_attack_5_50: 3188104113880041619
+      Spark_attack_5_87: -4443082742416349351
+      Spark_attack_5_34: -7617072867733850243
+      Spark_attack_5_107: 4018777341928181987
+      Spark_attack_5_36: 5314030392598540050
+      Spark_attack_5_143: 7191793319215800576
+      Spark_attack_5_59: 5506976289870880051
+      Spark_attack_5_62: 35453035688704404
+      Spark_attack_5_17: 8157681614300162767
+      Spark_attack_5_116: 5228953203591757035
+      Spark_attack_5_69: 7606826622389439840
+      Spark_attack_5_105: 9010951564285673887
+      Spark_attack_5_106: -1061934095294722773
+      Spark_attack_5_70: 1930796228495192345
+      Spark_attack_5_57: -8796115833859425229
+      Spark_attack_5_67: -3127104906620388835
+      Spark_attack_5_74: 2037640831836268835
+      Spark_attack_5_104: 8400063366071539717
+      Spark_attack_5_66: -5690812466727198757
+      Spark_attack_5_136: 3578449819319037884
+      Spark_attack_5_155: -6996858552836627392
+      Spark_attack_5_117: 2503760048211669327
+      Spark_attack_5_100: -7095994958269320274
+      Spark_attack_5_56: 2453111042299170143
+      Spark_attack_5_101: 1129184550577000888
+      Spark_attack_5_137: -4127732906581733008
+      Spark_attack_5_20: 7970575810673780879
+      Spark_attack_5_157: -1462101934970890621
+      Spark_attack_5_10: 2016356825970813969
+      Spark_attack_5_49: 2667512169732923351
+      Spark_attack_5_60: -1832338496804521404
+      Spark_attack_5_89: 7337759835763509200
+      Spark_attack_5_92: 4018018205772728815
+      Spark_attack_5_16: 3987614949212301572
+      Spark_attack_5_27: 216229352218837479
+      Spark_attack_5_132: 3729221220130833843
+      Spark_attack_5_119: 1417062339817763860
+      Spark_attack_5_15: -1294823650937673616
+      Spark_attack_5_73: -7570788993900277230
+      Spark_attack_5_23: -4370108935499456771
+      Spark_attack_5_4: -4588834456365557843
+      Spark_attack_5_113: 1830503669109656405
+      Spark_attack_5_83: -95489736162564683
+      Spark_attack_5_91: 1361628280535840149
+      Spark_attack_5_13: -2903511222679733151
+      Spark_attack_5_121: -2712754447259202408
+      Spark_attack_5_26: -1266566548075279286
+      Spark_attack_5_108: -6193841187947006082
+      Spark_attack_5_135: 1645572206409133256
+      Spark_attack_5_48: 7340679559390332054
+      Spark_attack_5_154: 3099072670435659457
+      Spark_attack_5_24: 1142207194112796628
+      Spark_attack_5_46: -3926038829931759761
+      Spark_attack_5_131: 4464243259266625354
+      Spark_attack_5_127: 4971947417152714370
+      Spark_attack_5_58: 6326303569456228716
+      Spark_attack_5_129: 8085341809356508294
+      Spark_attack_5_21: -8788629266560019581
+      Spark_attack_5_68: 820139569607529916
+      Spark_attack_5_64: -1407594044131155060
+      Spark_attack_5_42: 2591122451810977145
+      Spark_attack_5_51: 464797463637639494
+      Spark_attack_5_81: 8026840985758196322
+      Spark_attack_5_19: -5593190620546271591
+      Spark_attack_5_22: -2024516050548682772
+      Spark_attack_5_76: -83265756010322025
+      Spark_attack_5_124: -5209968782957596496
+      Spark_attack_5_140: -3789593817907356656
+      Spark_attack_5_133: -5391569888980116928
+      Spark_attack_5_141: 2188708777509330210
+      Spark_attack_5_28: -3188696690274583826
+      Spark_attack_5_115: 3402104238651107982
+      Spark_attack_5_125: -1893139057055154076
+      Spark_attack_5_47: -1528531273885222924
+      Spark_attack_5_150: 3145537009833297008
+      Spark_attack_5_5: -7020939833317713881
+      Spark_attack_5_102: -6103672234921779499
+      Spark_attack_5_120: 632406053956368408
+      Spark_attack_5_126: 8722912188567598217
+      Spark_attack_5_44: -5022393098062278481
+      Spark_attack_5_77: -5817877121314764539
+      Spark_attack_5_93: -8895534649163410424
+      Spark_attack_5_148: 210134375297131021
+      Spark_attack_5_82: 1082430516264611405
+      Spark_attack_5_84: 6949433537802687685
+      Spark_attack_5_134: -2450778543439230165
+      Spark_attack_5_9: -1068922963107691405
+      Spark_attack_5_145: -8148546184751512107
+      Spark_attack_5_97: -3122436327787430307
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
